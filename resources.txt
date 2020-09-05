@@ -1,0 +1,10 @@
+Inspiration for Project:
+https://create.arduino.cc/projecthub/Advanced/punch-activated-arm-flamethrowers-real-firebending-95bb80
+
+GPIO Control using Python:
+https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/
+
+Driver for the accelerometer:
+https://github.com/adafruit/Adafruit_CircuitPython_ADXL34x/blob/master/adafruit_adxl34x.py
+
+
